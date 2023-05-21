@@ -26,7 +26,7 @@ Este repositorio contiene todas las evidencias de aprendizaje realizadas durante
 En esta practica se realizaron conexiones a la API de pokemon usando la plataforma de Postman, y tambien a traves de scripts de Python
 
 ### [Scripting en PowerShell](./scripting_powershell/README.md)
-Practica powershell
+Practica powershell para reforzar el conocimiento en cmdlets, y se escanean distintos puertos sobre IPs
 
 ## Fase 2
 ### [Scripting en Bash](./scripting_bash/README.md)
