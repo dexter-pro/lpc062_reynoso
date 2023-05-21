@@ -29,5 +29,27 @@ En esta practica se realizaron conexiones a la API de pokemon usando la platafor
 Practica powershell
 
 ## Fase 2
+### [Scripting en Bash](./scripting_bash/README.md)
+Descripcion
+
+### [Encoding & Decoding](./encoding_decoding/README.md)
+Descripcion
+
+### [Webscraping](./webscraping/README.md)
+Descripcion
+
+### [Nmap](./nmap/README.md)
+Descripcion
+
+### [FTP](./FTP/README.md)
+Descripcion
 
 ## Fase 3
+### [Escáner de Puertos](./escaner_de_puertos/README.md)
+Descripcion
+
+### [Envío de Correos](./envio_de_correos/README.md)
+Descripcion
+
+### [Automatización de Tareas](./automatizacion_tareas/README.md)
+Descripcion
