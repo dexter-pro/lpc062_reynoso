@@ -12,12 +12,12 @@
 | 10    |                                           [Envió de Correos](./envio_de_correos/README.md)                                                          |
 | 11    |                      [Automatización de Tareas](./automatizacion_tareas/README.md)                                                                  |
 
-
-
-# 📔 Descripcion general
-
 ## Realizado por: Angel Ivan Reynoso Perez
 ## Matricula: 1748979
 ## Grupo: 062
+
+# 📔 Descripcion general
+
+
 
 Este repositorio contiene todas las evidencias de aprendizaje realizadas durante el curso
