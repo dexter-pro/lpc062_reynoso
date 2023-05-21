@@ -23,7 +23,10 @@ Este repositorio contiene todas las evidencias de aprendizaje realizadas durante
 
 ## Fase 1
 ### [Manejo de APIs](./Manejo_de_APIs/README.md)
-    En esta etapa ejemplo
+En esta practica se realizaron conexiones a la API de pokemon usando la plataforma de Postman, y tambien a traves de scripts de Python
+
+### [Scripting en PowerShell](./scripting_powershell/README.md)
+Practica powershell
 
 ## Fase 2
 
