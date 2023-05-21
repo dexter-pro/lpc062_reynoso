@@ -21,4 +21,10 @@ Este repositorio contiene todas las evidencias de aprendizaje realizadas durante
     - [Automatización de Tareas](./automatizacion_tareas/README.md)
 
 
-# [Fase 1]()
+## Fase 1
+### [Manejo de APIs](./Manejo_de_APIs/README.md)
+    En esta etapa ejemplo
+
+## Fase 2
+
+## Fase 3
