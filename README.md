@@ -16,6 +16,8 @@
 
 # 📔 Descripcion general
 
-## Introduccion
+## Realizado por: Angel Ivan Reynoso Perez
+## Matricula: 1748979
+## Grupo: 062
 
-Este es un ejemplo
+Este repositorio contiene todas las evidencias de aprendizaje realizadas durante el curso
