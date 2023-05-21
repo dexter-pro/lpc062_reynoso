@@ -6,4 +6,4 @@ En el script [pokemon1.py](./pokemon1.py) se genera una conexion sencilla, donde
 
 En [pokemon2.py](./pokemon2.py) lista los primeros 20 pokemons ubicados en la API, y despues lista los siguientes 20
 
-En [posteo.py](./pokemon2.py) obtiene el contenido dado ciertos argumentos brindados
+En [posteo.py](./posteo.py) obtiene el contenido dado ciertos argumentos brindados
