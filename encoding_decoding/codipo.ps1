@@ -1,3 +1,5 @@
+#Realizado por: Angel Ivan Reynoso Perez :: 1748979 :: Grupo 062
+
 Clear-Host
 Write-Host "Bienvenido a un ejemplo de codificacion / decodificacion base 64 usando powershell" -ForegroundColor Green
 Write-Host "codificando un archivo de texto"
