@@ -1,4 +1,4 @@
-## Practica 05: Scripting en Bash
+## Practica 06: Scripting en Bash
 
 En esta practica el objetivo es ampliar el conocimiento en permisos y formas de ejecución de scripts, manejo de variables de ambiente, lectura de entradas y combinación de comandos.
 
