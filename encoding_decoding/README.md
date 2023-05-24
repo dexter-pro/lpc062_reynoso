@@ -1,6 +1,6 @@
 ## Practica 07: Encoding & Decoding
 
-En esta practica se ejecutan scripts para determinar informacion de la red, y escanear equipos activos de la misma red
+En esta practica se ejecutan scripts para codificar y decodificar imagenes con python y powershell
 
 En [encode_imgur](./encode_imgur.py) se descarga una imagen y se codifica en base 64
 
